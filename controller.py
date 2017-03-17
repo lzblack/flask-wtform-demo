@@ -4,7 +4,7 @@ from compute import compute
 
 app = Flask(__name__)
 
-@app.route('/vib1', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
     form = InputForm(request.form)
     if request.method == 'POST' and form.validate():
