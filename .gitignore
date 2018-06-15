@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+__pycache__/model.cpython-36.pyc
+__pycache__/controller.cpython-36.pyc
+__pycache__/compute.cpython-36.pyc
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/flask-wtform-demo.iml
