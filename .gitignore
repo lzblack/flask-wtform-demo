@@ -53,3 +53,4 @@ __pycache__/compute.cpython-36.pyc
 .idea/modules.xml
 .idea/misc.xml
 .idea/flask-wtform-demo.iml
+.idea/*
